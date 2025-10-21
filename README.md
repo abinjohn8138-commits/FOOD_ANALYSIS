@@ -1,5 +1,6 @@
 FOOD_ANALYSIS
-##Foodpanda Data Analysis
+
+Foodpanda Data Analysis
 
 Welcome to the Foodpanda Data Analysis project! This repository contains data exploration, visualization, and insights derived from Foodpanda's order dataset. The goal is to uncover user behavior, delivery trends, and business opportunities through data analysis.
 
