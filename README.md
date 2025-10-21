@@ -32,7 +32,6 @@ SQL (if data extraction is needed)
 
 Project Structure
 Foodpanda-Data-Analysis/
-│
 ├── data/                   # Raw and cleaned datasets
 ├── notebooks/              # Jupyter notebooks for analysis
 ├── visuals/                # Exported graphs and plots
