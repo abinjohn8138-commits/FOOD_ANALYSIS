@@ -57,3 +57,19 @@ Future Work
 Build a recommendation engine for food items
 
 Conduct sentiment analysis on customer review.
+
+ Dataset Description
+
+The dataset used in this project simulates or reflects real-world Foodpanda food delivery data. It contains detailed information about customer orders, restaurants, delivery times, and more. This data is essential for performing meaningful analysis and generating actionable insights.
+
+ Dataset Files
+
+orders.csv – Contains records of customer orders.
+
+customers.csv – Information about registered customers.
+
+restaurants.csv – Restaurant details, including location and cuisine type.
+
+delivery_times.csv – Contains delivery duration and timestamps.
+
+menu_items.csv – Details of food items offered by restaurants.
